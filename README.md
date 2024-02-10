@@ -1,6 +1,6 @@
-Standard
-**BOLD**
-_Kursiv_
+Standard  
+**BOLD**  
+_Kursiv_  
 I can **write** _lol_
 
 # A1

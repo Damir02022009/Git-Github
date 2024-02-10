@@ -30,4 +30,4 @@ I can **write** _lol_
 
 # [Proverte silku](https://www.youtube.com/watch?v=xvFZjo5PgG0)
 
-<img src="https://www.sape.ru/glossary/wp-content/uploads/2021/11/google-4991348.jpg" width="300" height="200">
+<img src="https://www.sape.ru/glossary/wp-content/uploads/2021/11/google-4991348.jpg" width="500" height="200">
